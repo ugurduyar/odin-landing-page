@@ -40,3 +40,8 @@
     top: 2vh;
     right: 10vw;
 }
+#header-logo{
+    position: absolute;
+    top: 2vh;
+    left: 18vw;
+}
