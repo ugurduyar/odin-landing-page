@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 * {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0px 0px;
 }
 #wrapper{
@@ -25,23 +26,38 @@
     background-color: rgb(72, 72, 173);
     height: 10vh;
 }
-#header-link-1{
+.links {
     position: absolute;
+    font-size: 45px;
     top: 2vh;
+    text-decoration: none;
+    color: black;
+}
+
+#header-link-1 {
     right: 30vw;
 }
-#header-link-2{
-    position: absolute;
-    top: 2vh;
+#header-link-2 {
     right: 20vw;
 }
-#header-link-3{
-    position: absolute;
-    top: 2vh;
+#header-link-3 {
     right: 10vw;
 }
-#header-logo{
+#header-logo {
     position: absolute;
     top: 2vh;
     left: 18vw;
+}
+#catinfo {
+    position: relative;
+    top: 3vh;
+    left: 40vw;
+    font-size: 55px;
+}
+.catphotos {
+    position: relative;
+    left: 30vw;
+    top: 5vh;
+    margin-right: 50px;
+    border: 3px solid black;
 }
