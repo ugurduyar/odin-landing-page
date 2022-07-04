@@ -1,21 +1,42 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px;
 }
 #wrapper{
     display: flexbox;
 }
 #part1 {
-    background-color: darkblue;
+    background-color: rgb(170, 131, 154);
+    height: 35vh;
 }
 #part2 {
     background-color: rgb(226, 226, 226);
+    height: 35vh;
 }
 #part3 {
     background-color: rgb(53, 53, 53);
+    height: 35vh;
 }
 #part4 {
     background-color: rgb(49, 49, 49);
+    height: 35vh;
 }
 #part5 {
     background-color: rgb(72, 72, 173);
+    height: 10vh;
+}
+#header-link-1{
+    position: absolute;
+    top: 2vh;
+    right: 30vw;
+}
+#header-link-2{
+    position: absolute;
+    top: 2vh;
+    right: 20vw;
+}
+#header-link-3{
+    position: absolute;
+    top: 2vh;
+    right: 10vw;
 }
