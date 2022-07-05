@@ -62,3 +62,9 @@
     border: 3px solid black;
     border-radius: 15px;
 }
+.cattext {
+    position: relative;
+    left: 32vw;
+    top: 7vh;
+    justify-content: space-evenly;
+}
