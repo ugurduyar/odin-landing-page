@@ -14,7 +14,13 @@
     background-color: rgb(226, 226, 226);
     height: 35vh;
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#cattextwrap{
+    display: flex;
+    justify-content: space-evenly;
     align-items: center;
 }
 #part3 {
@@ -57,6 +63,4 @@
 .catphotos {
     border: 3px solid black;
     border-radius: 15px;
-}
-.cattext {
 }
