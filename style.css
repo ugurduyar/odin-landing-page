@@ -30,6 +30,10 @@
 #part3 {
     background-color: rgb(53, 53, 53);
     height: 35vh;
+    padding: 15px 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 #part4 {
     background-color: rgb(49, 49, 49);
