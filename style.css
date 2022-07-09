@@ -35,6 +35,11 @@
     justify-content: space-around;
     align-items: center;
 }
+#author {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 #part4 {
     background-color: rgb(49, 49, 49);
     height: 35vh;
