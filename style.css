@@ -43,6 +43,9 @@
 #part4 {
     background-color: rgb(49, 49, 49);
     height: 35vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 #part5 {
     background-color: rgb(72, 72, 173);
