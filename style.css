@@ -50,18 +50,21 @@
 }
 #part4wrapper{
     background-color: rgb(56, 56, 216);
-    padding: 40px 120px;
+    padding: 5vh 25vw;
     position: absolute;
-    border-radius: 16px;
+    border-radius: 5px;
 
 }
 #part4button{
     position: absolute;
-    right: 15px;
-    top: 55px;
+    right: 8vw;
+    top: 6vh;
     background-color: transparent;
     border-radius: 4px;
     cursor: pointer;
+    padding: 5px 15px;
+    color: white;
+    border-color: white;
 }
 #part5 {
     background-color: rgb(72, 72, 173);
