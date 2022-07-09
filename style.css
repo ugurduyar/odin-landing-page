@@ -43,9 +43,25 @@
 #part4 {
     background-color: rgb(49, 49, 49);
     height: 35vh;
+    position: relative;
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+#part4wrapper{
+    background-color: rgb(56, 56, 216);
+    padding: 40px 120px;
+    position: absolute;
+    border-radius: 16px;
+
+}
+#part4button{
+    position: absolute;
+    right: 15px;
+    top: 55px;
+    background-color: transparent;
+    border-radius: 4px;
+    cursor: pointer;
 }
 #part5 {
     background-color: rgb(72, 72, 173);
