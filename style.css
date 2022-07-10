@@ -13,16 +13,32 @@
 #p1h1 {
     position: absolute;
     top: 12vh;
-    left: 9vw;
+    left: 25vw;
     color: white;
 }
 #p1p1 {
     color: white;
-    background-color: brown;
     position: absolute;
-    top: 20vh;
-    left: 9vw;
+    top: 17vh;
+    left: 25vw;
     width: 20vw;
+}
+#headercat{
+    height: 25vh;
+    position: absolute;
+    top: 7vh;
+    right: 25vw;
+}
+#part1button{
+    position: absolute;
+    top: 23vh;
+    left: 25vw;
+    background-color: transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 5px 15px;
+    color: white;
+    border-color: white; 
 }
 #part2 {
     background-color: rgb(226, 226, 226);
