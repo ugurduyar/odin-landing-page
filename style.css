@@ -7,7 +7,7 @@
     display: flexbox;
 }
 #part1 {
-    background-color: rgb(170, 131, 154);
+    background-color: #1f2937;
     height: 35vh;
 }
 #part2 {
@@ -78,7 +78,7 @@
     font-size: 25px;
     top: 2vh;
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 #header-link-1 {
