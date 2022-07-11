@@ -58,7 +58,7 @@
     align-items: center;
 }
 #part3 {
-    background-color: rgb(53, 53, 53);
+    background-color: #e5e7eb;
     height: 35vh;
     padding: 4vh 12vw;
     display: flex;
@@ -70,7 +70,7 @@
     justify-content: right;
 }
 #part4 {
-    background-color: rgb(49, 49, 49);
+    background-color: white;
     height: 35vh;
     position: relative;
     display: flex;
@@ -78,11 +78,10 @@
     align-items: center;
 }
 #part4wrapper{
-    background-color: rgb(56, 56, 216);
+    background-color: #3882f6;
     padding: 5vh 25vw;
     position: absolute;
     border-radius: 5px;
-
 }
 #part4button{
     position: absolute;
